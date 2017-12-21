@@ -5,7 +5,7 @@
     </div>
     <hr />
     <div id='app2'>
-      <router-link to="/">Go to HelloWorld</router-link>
+      <router-link to="/">Go to /</router-link>
     </div>
     <hr />
     <div id='app3'>
